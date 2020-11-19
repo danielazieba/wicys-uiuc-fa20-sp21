@@ -40,4 +40,4 @@ Being interactive and engaging is harder than it sounds, especially because we w
 
 If any of the events listed above sound interesting to you, try stopping by a WiCyS meeting or two; we tend to post events on Facebook and announce them through our mailing list. We’re open to all male, female, and nonbinary students, and seek to build up a diverse and inclusive environment for anyone and everyone who wants to learn more about security. If there’s a particular topic you’d like covered, you should either apply for a future tech role on our board to teach other students about it or fill out feedback forms we tend to send out at the end of meetings. You’re also welcome to reach out to Tianyun and I if you have any questions for us.
 
-Daniela Zieba, 2020 - 2021 WiCyS tech lead 
+ &ndash; Daniela Zieba, 2020 - 2021 WiCyS tech lead. Many thanks to Tianyun Zhang, the 2020 - 2021 WiCys tech chair!
