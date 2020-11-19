@@ -2,8 +2,7 @@
 
 Sildes and code, where it exists, are included in this repository. My reflections on the fall 2020 semester are written below, and you can find some setup instructions for web security parts 1 and 2 in SETUP.md.
 
-# 11/18/20
-# On what the WiCyS tech team has been up to
+# 11/18/20 - On what the WiCyS tech team has been up to
 
 The Fall 2020 semester has been nothing short of chaotic for everyone involved, whether they’re a student, professor, or family member of either. Within the UIUC Women in Cybersecurity club, Tianyun and I have tried our best to produce interesting and engaging tech workshops that are informative for members who want an intro to cybersecurity topics while not completely boring them with yet another Zoom call on their calendar.
 
